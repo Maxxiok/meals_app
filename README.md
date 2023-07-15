@@ -1,6 +1,6 @@
 # meals_app
 
-A new Flutter project.
+A meals flutter app using navigation methods, riverpod stores.
 
 ## Getting Started
 
